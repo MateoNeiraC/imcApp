@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IMCapp</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="altura">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">calcular</string>
+    <string name="result">Resultado</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="ERROR">ERROR</string>
+    <string name="f">Bajo Peso</string>
+    <string name="n">Normal</string>
+    <string name="s">Soprepeso</string>
+    <string name="o">Obesidad</string>
+    <string name="df">Estas por debajo del peso optimo</string>
+    <string name="dn">Tienes un peso normal</string>
+    <string name="ds">Estas por encima de tu peso optimo</string>
+    <string name="dob">Estas MUY por encima de tu peso optimo</string>
+</resources>
